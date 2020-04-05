@@ -15,4 +15,4 @@ The bubble chart helps to visualize the relative frequency of all the bacterial 
 
 The gauge chart shows the weekly washing frequency of the individual.
 
-The dashboard is also displayed through the Github pages.
+The dashboard is also published through the Github pages at https://archanarohilla.github.io/BellyButtonBiodiversity/
