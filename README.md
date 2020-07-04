@@ -21,3 +21,5 @@ Plotly, JavaScript, HTML, CSS, D3.json()
 - The gauge chart shows the weekly washing frequency of the individual.
 
 - The dashboard is also published through the Github pages at https://archanarohilla.github.io/BellyButtonBiodiversity/
+
+![alt text](https://github.com/ArchanaRohilla/BellyButtonBiodiversity/blob/master/Dash1.png)
