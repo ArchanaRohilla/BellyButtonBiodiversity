@@ -23,3 +23,6 @@ Plotly, JavaScript, HTML, CSS, D3.json()
 - The dashboard is also published through the Github pages at https://archanarohilla.github.io/BellyButtonBiodiversity/
 
 ![alt text](https://github.com/ArchanaRohilla/BellyButtonBiodiversity/blob/master/Dash1.png)
+
+
+![alt text](https://github.com/ArchanaRohilla/BellyButtonBiodiversity/blob/master/dash2.png)
