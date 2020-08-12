@@ -1,4 +1,4 @@
-# BellyButtonBiodiversity
+# Belly Button Biodiversity
 
 ## Project Overview
 A dashboard has been designed using the data from the samples of some individuals to find the type and 
@@ -20,7 +20,10 @@ Plotly, JavaScript, HTML, CSS, D3.json()
 
 - The gauge chart shows the weekly washing frequency of the individual.
 
-- The dashboard is also published through the Github pages at https://archanarohilla.github.io/BellyButtonBiodiversity/
+- The dashboard is also published through the Github pages at:
+
+https://archanarohilla.github.io/BellyButtonBiodiversity/
+
 
 ![alt text](https://github.com/ArchanaRohilla/BellyButtonBiodiversity/blob/master/Images/Dash1.png)
 
