@@ -25,7 +25,7 @@ samples.json
 
 - The gauge chart shows the weekly washing frequency of the individual.
 
-- The dashboard is also published through the Github pages at:
+## The Dashboard's working version is deployed to Github pages at:
 
 https://archanarohilla.github.io/BellyButtonBiodiversity/
 
