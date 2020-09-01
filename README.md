@@ -31,10 +31,13 @@ plots.js
 
 ## The Dashboard's working version is deployed to Github pages at:
 
+
 https://archanarohilla.github.io/BellyButtonBiodiversity/
 
 
+
 ![alt text](https://github.com/ArchanaRohilla/BellyButtonBiodiversity/blob/master/Images/Dash1.png)
+
 
 
 ![alt text](https://github.com/ArchanaRohilla/BellyButtonBiodiversity/blob/master/Images/dash3.png)
@@ -43,3 +46,5 @@ https://archanarohilla.github.io/BellyButtonBiodiversity/
 - When the dashboard is first opened in a browser, ID 940’s data will be displayed in the dashboard. 
 
 - When a new ID number is selected from the dropdown menu, all the plots and the info panel will be updated.
+
+- The weekly washing frequency of the individual will be updated in the gauge chart whenever a new sample is selected. 
