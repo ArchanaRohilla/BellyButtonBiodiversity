@@ -33,4 +33,4 @@ https://archanarohilla.github.io/BellyButtonBiodiversity/
 ![alt text](https://github.com/ArchanaRohilla/BellyButtonBiodiversity/blob/master/Images/Dash1.png)
 
 
-![alt text](https://github.com/ArchanaRohilla/BellyButtonBiodiversity/blob/master/Images/dash2.png)
+![alt text](https://github.com/ArchanaRohilla/BellyButtonBiodiversity/blob/master/Images/dash3.png)
