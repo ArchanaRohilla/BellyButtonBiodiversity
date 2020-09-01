@@ -7,6 +7,9 @@ quantity of the bacterias found in the their belly buttons.
 ## Software
 Plotly, JavaScript, HTML, CSS, D3.json()
 
+## Data source
+samples.json
+
 ## Summary
 - The dashboard shows the demographic information, "Bar" chart, "Bubble" chart, and the "Gauge" which displays 
  the respective informations about an individual as per their "id", which can be selected from the dropdown menu.
