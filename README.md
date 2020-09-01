@@ -1,5 +1,5 @@
-# Belly Button Biodiversity
-A Belly Button Biodiversity dashboard with a panel for demographic information and capability of displaying the bacterial data for each 
+# Belly Button Biodiversity Dashboard
+An interactive "Belly Button Biodiversity Dashboard" with a panel for demographic information and capability of displaying the bacterial data for each 
 volunteer. The volunteers are be able to identify the top 10 bacterial species in their belly buttons. That way, if 
 Improbable Beef identifies a species as a candidate to manufacture synthetic beef, Roza’s volunteers will be able to identify whether
 that species is found in quantity in their navel.
