@@ -1,6 +1,6 @@
 # Belly Button Biodiversity Dashboard
 An interactive "Belly Button Biodiversity Dashboard" with a panel for demographic information and capability of displaying the bacterial 
-data for each volunteer. The volunteers are be able to identify the top 10 bacterial species in their belly buttons. 
+data for each individual. The individuals are be able to identify the top 10 bacterial species in their belly buttons. 
 
 ## Project Overview
 A dashboard has been designed using the data from the samples of some individuals to find the type and 
@@ -11,6 +11,9 @@ Plotly, JavaScript, HTML, CSS, D3.json()
 
 ## Data source
 samples.json
+
+## Source code
+plots.js
 
 ## Summary
 - The dashboard shows the demographic information, "Bar" chart, "Bubble" chart, and the "Gauge" which displays 
