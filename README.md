@@ -6,7 +6,7 @@ data for each individual. The individuals are be able to identify the top 10 bac
 A dashboard has been designed using the data from the samples of some individuals to find the type and 
 quantity of the bacterias found in the their belly buttons.
 
-## Software
+## Tools
 Plotly, JavaScript, HTML, CSS, D3.json()
 
 ## Data source
